@@ -31,7 +31,7 @@ This setup simulates a small neighborhood microgrid and demonstrates practical l
 
 ---
 
-## 🧪 Technology Stack
+## Technology Stack
 
 - Polygon (ERC-20) token backend
 - Web-based local energy control dashboard
