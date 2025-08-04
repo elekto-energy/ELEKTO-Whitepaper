@@ -1,51 +1,54 @@
-# ELEKTO – Decentralized Energy System
+# ELEKTO – Decentralized Energy System  
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-This repository contains the official whitepapers and documentation for **ELEKTO**, a local energy-sharing model developed by **OrganiQ Sweden AB**.
-
-The system is built around:
-- Solar, wind, biogas, battery storage, and V2H/V2G integration
-- Blockchain-based metering and token-based kWh distribution
-- The internal $ELEKTO token, designed for non-financial, closed-loop energy sharing
+ELEKTO is a closed-loop, non-financial energy token created by **OrganiQ Sweden AB** to enable transparent, fair, and efficient energy sharing within local microgrids powered by solar, batteries, wind, biogas, and V2H/V2G systems.
 
 ## Key Features
 
-- 1 ELEKTO = 1 kWh produced or shared
-- Local microgrid with energy dashboard per building
-- Smart metering and blockchain logging
-- Tokens earned from solar, battery optimization, and V2H discharge
-- GDPR-compliant, non-tradeable, internal-only token
+- **1 ELEKTO = 1 kWh** (produced or shared)
+- Internal token – no fiat value, not tradable
+- Local smart microgrid logic with EMS dashboards
+- Supports solar generation, smart batteries, V2H/V2G
+- GDPR-compliant data logging and tokenization
 
-## Current Demo Project
+## Current Pilot (Sweden, Q3 2025)
 
-A real-world demo site is being built in Sweden (Q3 2025):
-- 3 buildings (1 main + 2 guest houses)
-- Solar panels and battery storage
-- 4 EV chargers (2 private, 2 guest with billing)
-- Smart metering and full EMS visualization
-- Simulates energy sharing between neighbors
+A live demo site consisting of:
 
-## System Components
+- 3 buildings (main house + 2 guesthouses)
+- 4 EV chargers (2 private, 2 guest/public with billing)
+- Hybrid inverter with off-grid support
+- Battery storage (~50 kWh)
+- Smart meters and energy monitoring
+- Real-time dashboards per building
 
-- Polygon-based ERC-20 token ($ELEKTO)
-- Hybrid inverter and V2H-compatible hardware
-- Local EMS for visualization of production and consumption
-- Optional wind and biogas integration
+This setup simulates a small neighborhood grid and demonstrates local energy sharing between units – ideal for future scaling.
 
-## Download the Whitepaper
+## Technology Stack
+
+- **Polygon (ERC-20)** for token backend
+- Local energy control dashboard (web-based)
+- Smart metering integration
+- Compatible with token-based billing, loyalty models
+
+## Download Whitepaper
 
 - [ELEKTO_Whitepaper_TokenVision_OrganiQ-3.pdf](ELEKTO_Whitepaper_TokenVision_OrganiQ-3.pdf)
 
-## Token Philosophy
+## Contact
 
-- Not a currency
-- No market trading
-- Closed-loop use within local community
-- Designed for fairness, gamification, and energy loyalty
+Joakim Eklund  
+OrganiQ Sweden AB  
+📧 [joakim@organiq.se](mailto:joakim@organiq.se)  
+🌐 [www.organiq.se](https://www.organiq.se)
 
-## Learn More
+## License
 
-- Website: [www.organiq.se](https://www.organiq.se)
-- Contact: [joakim@organiq.se](mailto:joakim@organiq.se)
+This content is licensed under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International**.  
+[Read license terms](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+© 2025 Joakim Eklund / OrganiQ Sweden AB
+
 
 ELEKTO is more than a token – it’s a step toward local, transparent, and democratized energy sharing.
 
